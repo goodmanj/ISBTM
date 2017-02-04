@@ -9,7 +9,7 @@
  <h3> DiscModel </h3>
  A model of a 'pancake' like Europa which also has a bump that flows away.
  
- <p> Running the model </p>
+ <h2> Running the model </h2>
  
  All you have to do to see the results is press the '=' run button.
  If you want to adjust the bump on the two local models, then the adjust the parameters 'Gauss2DHeight' or 'Gauss2D' which control that bump.
