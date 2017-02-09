@@ -12,4 +12,8 @@
  <h2> Running the model </h2>
  
  All you have to do to see the results is press the '=' run button.
- If you want to adjust the bump on the two local models, then the adjust the parameters 'Gauss2DHeight' or 'Gauss2D' which control that bump.
+ 
+ If you want to adjust the bump on the two local models, then the adjust the parameters:
+ 'Gauss2DHeight' the parameter which controls how  big the bump is
+ or
+ 'Gauss2D' the parameter which controls how wide the bump is
