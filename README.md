@@ -32,7 +32,10 @@ We find that glacial flow at the base of the ice shell is so rapid that Europaâ€
  All you have to do to see the results is press the '=' run button.
  
  If you want to adjust the bump on the two local models, then the adjust the parameters:
+ 
  'BumpHeight' the parameter which controls how  big the bump is
+ 
  or
+ 
  'BumpWidth' the parameter which controls how wide the bump is
  
