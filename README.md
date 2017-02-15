@@ -18,21 +18,21 @@ We find that glacial flow at the base of the ice shell is so rapid that Europaâ€
   Finally, we allow flow to also influence the boundary. After running this model for millions of years, we see flow, melting, and freezing working together to influence the final thickness profile. 
  
  <h3> TwoDModel </h3>
- A model of a 2-D region with a bump that flows away
- Starts with a30 km long block, with a bump in the center of it
-  After we are at equilibrium, we allow flow and melting to influence the boundary of the system. In a matter of years the bump will vanish. The parameters 'Gauss2DHeight' and 'Gauss2d' parameterize the height and width of the bump respectively.
+ A model of a local 2-D cutaway of Europa's Ice crust which has a bump on the ice-water interface.
+ 
+ Starts with a 30 km long block, with a bump in the center of it. After we are at equilibrium, we allow flow and melting to influence the boundary of the system. In a matter of years the bump will vanish. The parameters 'Gauss2DHeight' and 'Gauss2d' parameterize the height and width of the bump respectively.
  
  <h3> DiscModel </h3>
- A model of a 'pancake' like Europa which also has a bump that flows away.
- Starts with a disc, with radius of 30 km, and a small bump on it. 
- After we are at equilibrium, we allow flow and melting to influence the boundary of the system. In a matter of years the bump will vanish. The parameters 'Gauss2DHeight' and 'Gauss2d' parameterize the height and width of the bump respectively.
+ A local model of a 'pancake' like Europa which also has a bump that flows away.
+ 
+ Starts with a radially symmetric disc, with radius of 30 km, and a small bump on the middle. After we are at equilibrium, we allow flow and melting to influence the boundary of the system. In a matter of years the bump will vanish. The parameters 'Gauss2DHeight' and 'Gauss2d' parameterize the height and width of the bump respectively.
  
  <h2> Running the model </h2>
  
  All you have to do to see the results is press the '=' run button.
  
  If you want to adjust the bump on the two local models, then the adjust the parameters:
- 'Gauss2DHeight' the parameter which controls how  big the bump is
+ 'BumpHeight' the parameter which controls how  big the bump is
  or
- 'Gauss2d' the parameter which controls how wide the bump is
+ 'BumpWidth' the parameter which controls how wide the bump is
  
